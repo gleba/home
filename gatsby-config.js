@@ -7,7 +7,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-preact`,
-    // `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-react-helmet`,
     // `gatsby-plugin-image`,
     // {
     //   resolve: `gatsby-source-filesystem`,
