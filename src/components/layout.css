@@ -5,7 +5,7 @@ html {
   box-sizing: border-box;
   overflow-y: scroll;
   background-color: midnightblue;
-  background-image: url("https://vz-2e1c9ff2-4a6.b-cdn.net/b4feb7f9-b80b-4e81-8273-bc74593f43e2/thumbnail_f90d5ca0.jpg");
+  /*background-image: url("https://vz-2e1c9ff2-4a6.b-cdn.net/b4feb7f9-b80b-4e81-8273-bc74593f43e2/thumbnail_f90d5ca0.jpg");*/
   background-size: auto;
 }
 body {
