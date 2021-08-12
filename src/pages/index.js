@@ -10,6 +10,9 @@ const IndexPage = () => (
            src="https://vz-2e1c9ff2-4a6.b-cdn.net/b4feb7f9-b80b-4e81-8273-bc74593f43e2/original"
            controls>
     </video>
+    <a href="https://vk.com/glebpw">https://vk.com/glebpw</a>
+    <a href="https://t.me/glebpw">https://t.me/glebpw</a>
+    <p>9288804827</p>
   </>
 )
 
